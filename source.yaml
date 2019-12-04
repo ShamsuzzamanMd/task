@@ -1,0 +1,17 @@
+# Configuration file
+
+# Contains list of URL
+ListOfWebLinks(URL):
+  - http://www.summet.com/dmsi/html/codesamples/addresses.html
+  - https://www.arcada.fi/sv
+  - https://www.helsinki.fi/en/faculty-of-science/contact
+
+
+
+  
+# Contains list of RegEx
+ListOfRegularExpression: 
+  - \(\d{3}\) \d{3}-\d{4}
+  - ([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)
+
+
