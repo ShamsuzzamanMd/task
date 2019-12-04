@@ -1,6 +1,8 @@
-Programing on Regular Expression 
-================================
-Regular Expression, also known as RegEx in a short form, is a pattern for matching in contradiction of a subject string from left to right.
+Programing on Regular Expression with python 
+============================================
+Regular Expression, also known as RegEx in a short form, is a pattern for matching in contradiction of a subject string from left to right. Python 3.7.4 has been used for this project. 
+
+
 
 
 Documentation
@@ -33,7 +35,7 @@ from datetime import datetime
 
 Running script
 ==============
-To run the script : directory location path of "sour.yaml" should be put and read correctly. For this project, the path was indicated as 
+To run the script : directory location path of "source.yaml" should be put and read correctly. For this project, the path was indicated as 
 ```
 source_file_path = r"/Users/shohag/Desktop/programming_excercise/source.yaml"
 ```
