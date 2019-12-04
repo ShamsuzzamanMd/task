@@ -30,3 +30,10 @@ import time
 ```
 from datetime import datetime
 ```
+
+Running script
+==============
+To run the script : directory location path of "sour.yaml" should be put and read correctly. For this project, the path was indicated as 
+```
+source_file_path = r"/Users/shohag/Desktop/programming_excercise/source.yaml"
+```
